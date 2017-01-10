@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
-<ResponseMap version="4.1.4.63326">
+<ResponseMap version="6.0.0.18638fa">
+    <notes>Get the IP Routes via the Map</notes>
+    <headline>IP Route via Map</headline>
     <sampleDictionary>
         <item name="sample1">
             <action>
