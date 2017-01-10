@@ -271,4 +271,7 @@ B    192.168.19.0/24 [20/0] via 10.2.1.42, 01:17:06</responseBody>
             <item>com.fnfr.svt.applications.telnet</item>
         </application>
     </applicabilityProperties>
+    <aliases>
+        <item name="do_nothing"/>
+    </aliases>
 </ResponseMap>
