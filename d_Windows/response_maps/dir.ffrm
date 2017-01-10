@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
-<ResponseMap version="4.1.4.63326">
+<ResponseMap version="6.0.0.18638fa">
+    <notes>used to get a list of files from the directory.</notes>
+    <headline>dir command respones map</headline>
     <sampleDictionary>
         <item name="sample1">
             <action actionType="command">
@@ -285,23 +287,29 @@
                     <columns>
                         <item name="date">
                             <width>10</width>
+                            <lastFullCell></lastFullCell>
                         </item>
                         <item name="time">
                             <width>7</width>
+                            <lastFullCell></lastFullCell>
                         </item>
                         <item name="am_pm">
                             <width>7</width>
+                            <lastFullCell></lastFullCell>
                         </item>
                         <item name="label">
                             <width>7</width>
                             <defaultValue>file</defaultValue>
+                            <lastFullCell></lastFullCell>
                         </item>
                         <item name="size">
                             <width>7</width>
                             <defaultValue>-1</defaultValue>
+                            <lastFullCell></lastFullCell>
                         </item>
                         <item name="filename">
                             <width>0</width>
+                            <lastFullCell></lastFullCell>
                         </item>
                     </columns>
                     <ignoreBlankLines>false</ignoreBlankLines>
